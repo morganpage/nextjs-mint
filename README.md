@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Environmental variables
+
+Create a .env.local file and add:
+
+NEXT_PUBLIC_NET_VERSION=4
+NEXT_PUBLIC_CONTRACT_ADDRESS=0x9c24e7f92489b2bcb05b6dc98fa5e3224b24ef45
+
 ## Getting Started
 
 First, run the development server:
